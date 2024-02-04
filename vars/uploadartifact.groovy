@@ -1,6 +1,6 @@
 def call() {
    rtUpload (
-                serverId: 'artifactory',
+                serverId: 'jf-artifactory',
                 spec: '''{
                       "files": [
                         {
